@@ -1,0 +1,54 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/SYNRGY_academy.jpg",
+            "title": "Quality Assurance Student",
+            "description": "Gained in-depth knowledge in Quality Assurance, including manual testing, API testing, and automation testing. Applied this expertise to real projects by collaborating with a team to develop and enhance mobile and web applications, ensuring high-quality standards and effective testing processes."
+        },
+        {
+            "id": "2",
+            "src": "./img/Astina.jpg",
+            "title": "Data Analyst Intern",
+            "description": "Developed Reporting Services and Power BI Dashboards; analyzed data with Python and SQL. Ensured data accuracy through cleaning and processing, and utilized visualization techniques to present insights and trends, supporting data-driven decisions."
+        },
+        {
+            "id": "3",
+            "src": "./img/Bangkit.jpg",
+            "title": "Machine Learning of Bangkit Academy 2023",
+            "description": "Acquired in-depth knowledge in Machine Learning with Python and TensorFlow. Developed skills in SQL, Spreadsheets, and Python Pandas for data analysis. Completed a Capstone Project, demonstrating expertise in application development and product validation."
+        },
+        {
+            "id": "4",
+            "src": "./img/TA.jpg",
+            "title": "Assistant Lecturer of Mathematics Courses",
+            "description": "Mentored students to improve problem-solving, critical thinking, and academic readiness. Skilled in teaching discrete mathematics principles in computer science, providing students with a solid mathematical foundation for success in the field."
+        }    
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/placeholder-image.png",
+            "title": "Connect Mobile App & Web",
+            "description": "Development of mobile banking applications and websites shown to blind friends, so that they can carry out banking activities better.",
+            "link" : "View in github",
+            "Url" : "https://github.com/SYNRGY7-Kelompok-6"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image.png-1.png",
+            "title": "Baliguide Capstone Project",
+            "description": "Mobile app that offers recommendations to tourists to find hotels, cafes, and tourist attractions based on their preferences.",
+            "link" : "View in github",
+            "Url" : "https://github.com/Capstone-Bangkit-C23-PC670"
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "MBKM Website Development",
+            "description": "A website that helps students and lecturers in the selection, decisions and administrative processes before registering for MBKM.",
+            "link" : "View in github",
+            "Url" : "https://github.com/SYNRGY7-Kelompok-6"
+        }  
+    ]
+}
